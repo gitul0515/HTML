@@ -1,0 +1,5 @@
+문법 정리
+ul: 그룹핑 (unordered list)
+ol: 숫자 그룹핑 (ordered list)
+li: list의 약자
+태그 안에 태그가 존재할 수 있다.

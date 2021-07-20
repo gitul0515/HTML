@@ -1,0 +1,13 @@
+Tab or Ctrl + E
+Child: >
+Sibling: +
+Multiplication: *
+Grouping: ()
+ID 값: #
+클래스 값: .
+" " 값: [ ]      공백 없이
+Text Contents: {}
+Numbering: $
+
+사이트 확인, Cheet Sheet 확인
+https://docs.emmet.io/cheat-sheet/

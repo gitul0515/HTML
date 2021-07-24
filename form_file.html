@@ -1,0 +1,17 @@
+<html>
+<head>
+  <meta charset="utf-8">
+</head>
+<body>
+  <form action="http://localhost/file.php" method="post" enctype="multipart/form-data">
+    <input type="text" name="id" value="gitul0515">
+    <input type="file" name="profile">
+    <input type="submit" value="제출">
+  </form>
+</body>
+</html>
+<!--enctype: 폼 데이터가 서버로 제출될 때
+             해당 데이터가 인코딩되는 방법을 명시함.
+             method 속성값이 post인 경우에만 사용할 수 있다.
+    multipart/form-data: 모든 문자를 인코딩하지 않음을 명시함.
+                         파일이나 이미지를 전송할 때 주로 사용함. -->
